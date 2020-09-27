@@ -3,16 +3,16 @@
 Precision and Recall Scores
 
 Each of the four models had great precision scores while having mediocre recall scores:
-  Naive Random Oversampling:
+ -   Naive Random Oversampling:
   pre: 0.99 
   rec: 0.66
-  Smote Oversampling:
+ -   Smote Oversampling:
   pre: 0.99
   rec: 0.66
-  Undersampling:
+  - Undersampling:
   pre: 0.99 
   rec: 0.66
-  Combination Sampling:
+ -   Combination Sampling:
   pre: 0.99
   rec: 0.58
   
