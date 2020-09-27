@@ -4,12 +4,19 @@ Precision and Recall Scores
 
 Each of the four models had great precision scores while having mediocre recall scores:
   Naive Random Oversampling:
+  
   - pre: 0.99 rec: 0.66
+  
   Smote Oversampling:
+  
   - pre: 0.99 rec: 0.66
+  
   Undersampling
-  - pre: 0.99 rec: 0.66 
+  
+  - pre: 0.99 rec: 0.66
+  
   Combination Sampling
+  
   - pre: 0.99 rec: 0.58
   
   The worst model in terms of recalling is the Combination Sampling model and the others yield the same exact results.
