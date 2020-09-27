@@ -20,12 +20,12 @@ Each of the four models had great precision scores while having mediocre recall 
   
   The balanced accuracy scores: 
   - Naive Random Oversampling:
-  .65
+  0.65
   - Smote Oversampling:
-  .63
-  - Undersampling
-  .63
-  - Combination Sampling
-  .64
+  0.63
+  - Undersampling:
+  0.63
+  - Combination Sampling:
+  0.64
   
   As you can see, the accuracy scores are not optimal using these models. The scores are well below par and we would recommend using these models with caution but if we had to choose one model over the rest, it would be the Naive Random Oversampling model because it yields the same precision and recall scores while having a higher accuracy score than the rest, even though it is still a bit low in general at 65%. 
